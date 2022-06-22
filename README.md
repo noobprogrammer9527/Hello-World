@@ -1,2 +1,2 @@
 # Hello-World
-This repository is my very first repository for study.
+This repository is my very first one for study.
